@@ -1,2 +1,2 @@
 # Trustworthy-AI-course
-A Repo for all my course work codes and homeworks
+A Repo for all my coursework codes and homeworks
