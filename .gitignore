@@ -1,3 +1,89 @@
+#########################################
+# My own Customized
+*/Datasets/*
+*/Dataset/*
+*/dataset/*
+*/datasets/*
+
+# Large dataset directories
+**/data/**
+**/datasets/**
+**/input/**
+**/output/**
+**/raw_data/**
+**/processed_data/**
+**/interim_data/**
+**/models/**
+**/saved_models/**
+**/checkpoints/**
+**/embeddings/**
+**/vectors/**
+**/corpus/**
+**/samples/**
+**/resources/**
+**/assets/**
+**/storage/**
+**/volumes/**
+
+# Model files at any depth
+**/*.pt
+**/*.pth
+**/*.pkl
+**/*.joblib
+**/*.h5
+**/*.hdf5
+**/*.pb
+**/*.onnx
+
+# Data files at any depth
+**/*.csv
+**/*.parquet
+**/*.feather
+**/*.arrow
+**/*.npy
+**/*.npz
+**/*.mat
+**/*.jsonl
+
+# Media files at any depth
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.gif
+**/*.mp4
+**/*.avi
+**/*.wav
+**/*.mp3
+
+# Archives at any depth
+**/*.zip
+**/*.tar
+**/*.tar.gz
+**/*.7z
+**/*.rar
+
+# PyTorch
+**/checkpoints/**
+**/*.pt
+**/*.pth
+**/lightning_logs/**
+
+# TensorFlow/Keras
+**/saved_model/**
+**/*.h5
+**/*.hdf5
+**/*.pb
+
+# General Python
+**/__pycache__/**
+**/*.pyc
+**/venv/**
+**/env/**
+**/.venv/**
+
+###########################################
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
