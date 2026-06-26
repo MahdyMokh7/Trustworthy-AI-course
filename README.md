@@ -1,10 +1,8 @@
 # Trustworthy ML: Generalization, Robustness, Interpretability, Causality, Fairness & Privacy
 
-## Advanced Machine Learning Research Repository
-
 ### Project Overview
 
-Comprehensive research repository exploring six critical pillars of trustworthy machine learning. Each subproject implements state-of-the-art techniques for building reliable, interpretable, and ethical AI systems. Demonstrates expertise in ML theory, model evaluation, and responsible AI practices.
+Comprehensive coursework repository exploring six critical pillars of trustworthy machine learning. Each subproject implements state-of-the-art techniques for building reliable, interpretable, and ethical AI systems. Demonstrates expertise in ML theory and practice, model evaluation, and responsible AI practices.
 
 **Key Competencies:**
 - Distribution Shift & Domain Adaptation
